@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CategProduitManager.cs" />
+    <Compile Include="ControleAEffectueManager.cs" />
     <Compile Include="EmplacementManager.cs" />
     <Compile Include="ZoneStockageManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
